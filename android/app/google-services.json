@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455141179189",
+    "project_id": "flash-chat-58c1e",
+    "storage_bucket": "flash-chat-58c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455141179189:android:ceac755c97ac9e1cae967c",
+        "android_client_info": {
+          "package_name": "com.RedandFlora.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455141179189-51a8et1mp6r90ukn08f3m66p3s7thvp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMxtLjz0UbyESPxYdZAveNwkgnYzz4qc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455141179189-51a8et1mp6r90ukn08f3m66p3s7thvp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
